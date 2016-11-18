@@ -152,7 +152,7 @@ a:active {
 /* @@@@@@@ tactile start @@@@@@@@@@*/
 
 #tactiletext {
-    width: 420px;
+    width: 450px;
     height: auto;
     color: white;
     background-color: rgba(158,83,148, 0.3);
@@ -215,6 +215,7 @@ a:active {
     display:inline;
     width: 200px;
     height: 200px;
+    /*margin-left: 8px;*/
 
 }
 
@@ -223,6 +224,7 @@ a:active {
     height: 200px;
     border-radius: 20px;
     float: right;
+    padding: 5px;
 }
 
 .flour {
@@ -230,14 +232,15 @@ a:active {
     height: 200px;
     border-radius: 20px;
     float: right;
+    padding: 5px;
 }
 
 .grave {
     width: 200px;
     height: 200px;  
     border-radius: 20px;
-    margin-left: 8px;
     float: right;
+    padding: 5px;
 }
 
 .crowbar {
@@ -246,6 +249,7 @@ a:active {
     background: black;
     border-radius: 20px;
     float: right;
+    padding: 5px;
 }
 
 /* @@@@@@@ contact start @@@@@@@@@@*/
