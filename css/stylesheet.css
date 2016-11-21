@@ -227,7 +227,6 @@ a:active {
     border-radius: 20px;
     float: right;
     padding: 1px 5px 5px 5px;
-    border-bottom: 10px;
 }
 
 .flour {
@@ -287,4 +286,5 @@ a:active {
     padding: 5px;
     border-radius: 20px;
     position: absolute;
+    text-align: justify;
 }
