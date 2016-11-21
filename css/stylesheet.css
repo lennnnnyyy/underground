@@ -9,7 +9,7 @@
 }
 
 .definition {
-    width: 50%;
+    /*width: 50%;*/
     color: white;
     font-family: 'Arimo', sans-serif;
     font-size: 80%;
@@ -21,7 +21,7 @@
 /* @@@@@@@ navigation start @@@@@@@@@@*/
 
 .navigation {
-    width: 200px;
+    width: 100px;
     position: relative;
     float: right;
 
@@ -32,7 +32,8 @@
     font-family: 'Oswald', sans-serif;
     list-style: none;
     font-size: 200%;
-    margin-top: 70%;
+    margin-top: 120%;
+    
     
 }
 
@@ -56,6 +57,7 @@ a:active {
 }
 
 .contact {
+    
     font-family: 'Oswald', sans-serif;
     /*margin-left: 80%;
     position: absolute;*/
@@ -70,7 +72,7 @@ a:active {
 /* @@@@@@@ audio start @@@@@@@@@@*/
 
 #audiotext {
-    width: 300px;
+    width: 450px;
     height: auto;
     color: white;
     /* possible background colors
@@ -81,7 +83,7 @@ a:active {
     list-style: none;
     font-size: 100%;
     margin-left: 5%;
-    margin-top: 10%;
+    margin-top: 150px;
     padding: 5px;
     border-radius: 20px;
     position: absolute;
@@ -109,13 +111,13 @@ a:active {
 .boombox {
     width: 200px;
     height: 200px;
-    margin-left: 17%;
+    margin-left: 125px;
 }
 
 /* @@@@@@@ visual start @@@@@@@@@@*/
 
 #visualtext {
-    width: 300px;
+    width: 450px;
     height: auto;
     color: white;
     background-color: rgba(158,83,148, 0.3);
@@ -123,7 +125,7 @@ a:active {
     list-style: none;
     font-size: 100%;
     margin-left: 5%;
-    margin-top: 10%;
+    margin-top: 150px;
     padding: 5px;
     border-radius: 20px;
     position: absolute;
@@ -146,7 +148,7 @@ a:active {
 .glasses {
     width: 200px;
     height: 125px;
-    margin-left: 15%;
+    margin-left: 125px;
 }
 
 /* @@@@@@@ tactile start @@@@@@@@@@*/
@@ -160,7 +162,7 @@ a:active {
     list-style: none;
     font-size: 100%;
     margin-left: 5%;
-    margin-top: 10%;
+    margin-top: 150px;
     padding: 5px;
     border-radius: 20px;
     position: absolute;
@@ -224,7 +226,8 @@ a:active {
     height: 200px;
     border-radius: 20px;
     float: right;
-    padding: 5px;
+    padding: 1px 5px 5px 5px;
+    border-bottom: 10px;
 }
 
 .flour {
@@ -233,6 +236,7 @@ a:active {
     border-radius: 20px;
     float: right;
     padding: 5px;
+
 }
 
 .grave {
@@ -249,7 +253,8 @@ a:active {
     background: black;
     border-radius: 20px;
     float: right;
-    padding: 5px;
+    padding: 2px;
+    margin-left: 5px;
 }
 
 /* @@@@@@@ contact start @@@@@@@@@@*/
@@ -262,13 +267,13 @@ a:active {
     font-family: 'Oswald', sans-serif;
     font-size: 100%;
     margin-left: 5%;
-    margin-top: 10%;
+    margin-top: 150px;
     padding: 5px;
     border-radius: 20px;
     position: absolute;
 }
 
-/* @@@@@@@ contact start @@@@@@@@@@*/
+/* @@@@@@@ about start @@@@@@@@@@*/
 
 .abouttext {
     width: 300px;
@@ -278,7 +283,7 @@ a:active {
     font-family: 'Oswald', sans-serif;
     font-size: 100%;
     margin-left: 5%;
-    margin-top: 10%;
+    margin-top: 150px;
     padding: 5px;
     border-radius: 20px;
     position: absolute;
